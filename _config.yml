@@ -16,3 +16,6 @@ include:
 
 minima:
   date_format: "%Y-%m-%d"
+
+# Display the summary of blog post under title on the Home page
+show_description: true
