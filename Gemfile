@@ -11,3 +11,5 @@ gem "github-pages", "~> 228"
 gem "jekyll", "~> 3.9"
 
 gem "jekyll-twitter-plugin", "~> 2.1"
+
+gem "jemoji", "~> 0.12.0"

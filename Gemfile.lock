@@ -257,6 +257,7 @@ DEPENDENCIES
   github-pages (~> 228)
   jekyll (~> 3.9)
   jekyll-twitter-plugin (~> 2.1)
+  jemoji (~> 0.12.0)
   minima (~> 2.5)
   webrick (~> 1.8)
 

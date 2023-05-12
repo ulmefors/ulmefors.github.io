@@ -8,3 +8,8 @@ url: https://ulmefors.github.io  # the base hostname and protocol for your site,
 
 plugins:
   - jekyll-twitter-plugin
+  - jemoji
+
+# this setting allows you to keep pages organized in the _pages folder
+include:
+  - _pages
