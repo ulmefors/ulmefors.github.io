@@ -13,3 +13,6 @@ plugins:
 # this setting allows you to keep pages organized in the _pages folder
 include:
   - _pages
+
+minima:
+  date_format: "%Y-%m-%d"
