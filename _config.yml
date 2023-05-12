@@ -1,7 +1,5 @@
 
 title: marcus ulmefors
-theme: minima
-
 domain: ulmefors.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://ulmefors.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /REPOSITORY-NAME/      # place folder name if the site is served in a subfolder
@@ -9,13 +7,19 @@ url: https://ulmefors.github.io  # the base hostname and protocol for your site,
 plugins:
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-remote-theme
 
 # this setting allows you to keep pages organized in the _pages folder
 include:
   - _pages
 
+remote_theme: jekyll/minima
 minima:
   date_format: "%Y-%m-%d"
+  skin: dark
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/ulmefors/" }
+    - { platform: github,  user_url: "https://github.com/ulmefors" }
 
 linkedin_username: ulmefors
 github_username: ulmefors
