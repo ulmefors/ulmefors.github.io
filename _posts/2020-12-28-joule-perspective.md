@@ -13,7 +13,9 @@ One of the most intriguing sections, **Practical Implementation for Commercial A
 
 **Tweet**
 
-{% twitter https://twitter.com/kth_rpl/status/1267387213232422913 %}
+
+<!--- {% twitter https://twitter.com/kth_rpl/status/1267387213232422913 %} -->
+
 
 [^1]: Martin Hwasser, Danica Kragic, Rika Antonova *"Variational Auto-regularized Alignment for Sim-to-Real Control"* ICRA2020
 
